@@ -1,0 +1,9 @@
+;	Quest File
+;	Please follow this format for adding quests to this stage:
+;
+;	Quest Name:
+;		Description: (lore here)
+;		Requirements: (items submitted or crafted)
+;		Reward: (TBD if this should be used)
+;		Dependencies: (previous quests)
+;		Unlocks: (next quests)

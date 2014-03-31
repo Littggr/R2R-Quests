@@ -1,0 +1,16 @@
+;	Fast Track Dirt Hovel
+;	Please follow this format for adding quests to this stage:
+;
+;	Quest Name:
+;		Description: (lore here)
+;		Requirements: (items submitted or crafted)
+;		Reward: (TBD if this should be used)
+;		Dependencies: (previous quests)
+;		Unlocks: (next quests)
+
+Quest Name: For the Lazy
+	Description: (lore here)
+	Requirements: none
+	Reward: none
+	Dependencies: none
+	Unlocks: Fast Track Wood Settlement
