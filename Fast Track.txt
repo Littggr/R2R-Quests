@@ -3,8 +3,7 @@
 		Fast Track Difficulty Players skip this Stage. You Pansy.
 	[Wood Settlement]
 		[Residential]
-			[Player Dormitory]
-				items= bed,door,torches,crafting bench,double chest
+			Player Dormitory Quest
 		[Technology]
 		[Magic]
 		[Agricultural]
@@ -12,8 +11,7 @@
 		[Outlier]
 		[Transportation]
 		[Commercial]
-		[Item Gathering]
-			items = 16 cobble, 64 planks, 6 saplings, 6 food,
+			Item Gathering
 	[Stone Hamlet]
 		[Residential]
 		[Technology]
